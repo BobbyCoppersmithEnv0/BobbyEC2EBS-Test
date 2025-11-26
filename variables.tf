@@ -22,10 +22,8 @@ variable "vpc_id" {
   type = string
 }
 
-/*
 variable "data_volume_size" {
   description = "Size of the root EBS volume in GiB."
   type        = number
   default     = 14
 }
-*/
